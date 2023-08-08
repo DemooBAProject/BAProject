@@ -1,2 +1,3 @@
 # BAProject
-Our AI sample final project 
+**Our AI sample final project** 
+
